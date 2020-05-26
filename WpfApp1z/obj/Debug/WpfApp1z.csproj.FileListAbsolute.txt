@@ -1,0 +1,15 @@
+D:\Project\tool\WpfApp1z\WpfApp1z\bin\Debug\WpfApp1z.exe.config
+D:\Project\tool\WpfApp1z\WpfApp1z\bin\Debug\WpfApp1z.exe
+D:\Project\tool\WpfApp1z\WpfApp1z\bin\Debug\WpfApp1z.pdb
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.csprojAssemblyReference.cache
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\MainWindow.g.cs
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\App.g.cs
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z_MarkupCompile.cache
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z_MarkupCompile.lref
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\MainWindow.baml
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.g.resources
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.Properties.Resources.resources
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.csproj.GenerateResource.cache
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.csproj.CoreCompileInputs.cache
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.exe
+D:\Project\tool\WpfApp1z\WpfApp1z\obj\Debug\WpfApp1z.pdb
