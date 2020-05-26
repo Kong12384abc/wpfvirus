@@ -29,7 +29,7 @@ namespace WpfApp1z
         {
             while (true)
             {
-                MessageBox.Show("SAD VIRUS");
+                MessageBox.Show("มึงก็เป็นได้แค่เพื่อน เขาไม่รักมึงหรอก");
             }
         }
     }
